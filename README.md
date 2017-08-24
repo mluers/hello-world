@@ -1,4 +1,5 @@
 # hello-world
 git guide repo
 
-git hello world example
+this is the git hello world example
+foo
